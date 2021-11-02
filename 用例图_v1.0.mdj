@@ -913,9 +913,9 @@
 											"font": "Arial;13;0",
 											"left": 784,
 											"top": 368,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机蜂群协同系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -1112,9 +1112,9 @@
 											"font": "Arial;13;0",
 											"left": -848,
 											"top": -144,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 天气监视系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -1311,9 +1311,9 @@
 											"font": "Arial;13;0",
 											"left": -832,
 											"top": -176,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 天气监视系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -1510,9 +1510,9 @@
 											"font": "Arial;13;0",
 											"left": -864,
 											"top": -112,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 天气监视系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -2255,9 +2255,9 @@
 											"font": "Arial;13;0",
 											"left": 992,
 											"top": 288,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机蜂群协同系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -2454,9 +2454,9 @@
 											"font": "Arial;13;0",
 											"left": 304,
 											"top": -592,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 路径规划系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -2653,9 +2653,9 @@
 											"font": "Arial;13;0",
 											"left": 336,
 											"top": -416,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 路径规划系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -2953,9 +2953,9 @@
 											"font": "Arial;13;0",
 											"left": -96,
 											"top": 224,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 人机交互界面)"
 										},
 										{
 											"_type": "LabelView",
@@ -3152,9 +3152,9 @@
 											"font": "Arial;13;0",
 											"left": -80,
 											"top": 240,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 人机交互界面)"
 										},
 										{
 											"_type": "LabelView",
@@ -3351,9 +3351,9 @@
 											"font": "Arial;13;0",
 											"left": -32,
 											"top": 880,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 人机交互界面)"
 										},
 										{
 											"_type": "LabelView",
@@ -3550,9 +3550,9 @@
 											"font": "Arial;13;0",
 											"left": 144,
 											"top": 1120,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机蜂群协同系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -3850,9 +3850,9 @@
 											"font": "Arial;13;0",
 											"left": 624,
 											"top": 1776,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 故障诊断及处理系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -4049,9 +4049,9 @@
 											"font": "Arial;13;0",
 											"left": -80,
 											"top": 1200,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 人机交互界面)"
 										},
 										{
 											"_type": "LabelView",
@@ -4236,7 +4236,7 @@
 											"top": 878,
 											"width": 165,
 											"height": 13,
-											"text": "启动无人机"
+											"text": "启动无人机系统"
 										},
 										{
 											"_type": "LabelView",
@@ -4248,9 +4248,9 @@
 											"font": "Arial;13;0",
 											"left": -48,
 											"top": 272,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 人机交互界面)"
 										},
 										{
 											"_type": "LabelView",
@@ -4435,7 +4435,7 @@
 											"top": 1006,
 											"width": 182,
 											"height": 13,
-											"text": "结束无人机作业令"
+											"text": "结束无人机作业"
 										},
 										{
 											"_type": "LabelView",
@@ -4447,9 +4447,9 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": 256,
-											"width": 90.1875,
+											"width": 116.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 人机交互界面)"
 										},
 										{
 											"_type": "LabelView",
@@ -4646,9 +4646,9 @@
 											"font": "Arial;13;0",
 											"left": 640,
 											"top": 1920,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 故障诊断及处理系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -4845,9 +4845,9 @@
 											"font": "Arial;13;0",
 											"left": 672,
 											"top": 1872,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 故障诊断及处理系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -5139,9 +5139,9 @@
 											"font": "Arial;13;0",
 											"left": 144,
 											"top": 816,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机蜂群协同系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -5338,9 +5338,9 @@
 											"font": "Arial;13;0",
 											"left": 160,
 											"top": 928,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机蜂群协同系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -5537,9 +5537,9 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": 784,
-											"width": 90.1875,
+											"width": 155.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机蜂群协同系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -5832,9 +5832,9 @@
 											"font": "Arial;13;0",
 											"left": -1776,
 											"top": 2400,
-											"width": 90.1875,
+											"width": 142.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机群监视系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -6031,9 +6031,9 @@
 											"font": "Arial;13;0",
 											"left": -1712,
 											"top": 2416,
-											"width": 90.1875,
+											"width": 142.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机群监视系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -6711,9 +6711,9 @@
 											"font": "Arial;13;0",
 											"left": -1520,
 											"top": -384,
-											"width": 90.1875,
+											"width": 129.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机自控系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -6910,9 +6910,9 @@
 											"font": "Arial;13;0",
 											"left": -1728,
 											"top": 768,
-											"width": 90.1875,
+											"width": 129.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机自控系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -7109,9 +7109,9 @@
 											"font": "Arial;13;0",
 											"left": -1680,
 											"top": -960,
-											"width": 90.1875,
+											"width": 129.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机自控系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -7308,9 +7308,9 @@
 											"font": "Arial;13;0",
 											"left": -1648,
 											"top": 336,
-											"width": 90.1875,
+											"width": 129.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机自控系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -12362,9 +12362,9 @@
 											"font": "Arial;13;0",
 											"left": -1648,
 											"top": -64,
-											"width": 80.9072265625,
+											"width": 129.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机自控系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -13093,9 +13093,9 @@
 										"$ref": "AAAAAAF84KvBXMNUzW4="
 									},
 									"font": "Arial;13;0",
-									"left": 1096,
+									"left": 1094,
 									"top": 954,
-									"width": 55.65625,
+									"width": 59.59814453125,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -13202,9 +13202,9 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": -64,
-											"width": 80.9072265625,
+											"width": 129.27001953125,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 无人机自控系统)"
 										},
 										{
 											"_type": "LabelView",
@@ -13925,9 +13925,9 @@
 										"$ref": "AAAAAAF84K490BVYonk="
 									},
 									"font": "Arial;13;0",
-									"left": 1125,
+									"left": 1123,
 									"top": 730,
-									"width": 55.65625,
+									"width": 59.59814453125,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -14020,9 +14020,9 @@
 										"$ref": "AAAAAAF84K7oaxohtMM="
 									},
 									"font": "Arial;13;0",
-									"left": 841,
+									"left": 839,
 									"top": 788,
-									"width": 53.49169921875,
+									"width": 56.95751953125,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -14530,7 +14530,505 @@
 					"_parent": {
 						"$ref": "AAAAAAF82ppWLml1xYQ="
 					},
-					"name": "无人机蜂群协同系统"
+					"name": "无人机蜂群协同系统",
+					"ownedElements": [
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82q0nJ2pZYDU=",
+							"_parent": {
+								"$ref": "AAAAAAF82qAOZWmq9ek="
+							},
+							"name": "管理天气信息",
+							"ownedElements": [
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF82q+u2GsaYy0=",
+									"_parent": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"source": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"target": {
+										"$ref": "AAAAAAF82q3LcGqJmnA="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF82q/EYmsr1uY=",
+									"_parent": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"source": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"target": {
+										"$ref": "AAAAAAF82q6teWq59xg="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF82q/nZms9170=",
+									"_parent": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"source": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"target": {
+										"$ref": "AAAAAAF82q8BWGrqjJ4="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF837UgMmF3YSE=",
+									"_parent": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"source": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rjX626Q8Hs="
+									}
+								}
+							]
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82rNXX2vH5sI=",
+							"_parent": {
+								"$ref": "AAAAAAF82qAOZWmq9ek="
+							},
+							"name": "管理路径信息",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82slXZYUcGZQ=",
+									"_parent": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slXZYUd10E=",
+										"_parent": {
+											"$ref": "AAAAAAF82slXZYUcGZQ="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rNXX2vH5sI="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slXZYUeirw=",
+										"_parent": {
+											"$ref": "AAAAAAF82slXZYUcGZQ="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rZV+2yjUw8="
+										}
+									}
+								},
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82sledYYT48Q=",
+									"_parent": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82sledYYUklc=",
+										"_parent": {
+											"$ref": "AAAAAAF82sledYYT48Q="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rNXX2vH5sI="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82sledYYVZXY=",
+										"_parent": {
+											"$ref": "AAAAAAF82sledYYT48Q="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rWgBmwiJks="
+										}
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF82s0uaL5v3tk=",
+									"_parent": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"target": {
+										"$ref": "AAAAAAF82sxPdqcTxW4="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833WzxKwypbU=",
+									"_parent": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rZV+2yjUw8="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833XVkq4SZk8=",
+									"_parent": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rWgBmwiJks="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF837RYVFvjtzQ=",
+									"_parent": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rZV+2yjUw8="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF837dErGQA5/M=",
+									"_parent": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rkFd27Zw8c="
+									}
+								}
+							]
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82sxPdqcTxW4=",
+							"_parent": {
+								"$ref": "AAAAAAF82qAOZWmq9ek="
+							},
+							"name": "发送路径指令",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82szsuL08LEg=",
+									"_parent": {
+										"$ref": "AAAAAAF82sxPdqcTxW4="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82szsuL09aww=",
+										"_parent": {
+											"$ref": "AAAAAAF82szsuL08LEg="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82sxPdqcTxW4="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82szsuL0+C74=",
+										"_parent": {
+											"$ref": "AAAAAAF82szsuL08LEg="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qBHrWnFOmY="
+										}
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF84K490BVYonk=",
+									"_parent": {
+										"$ref": "AAAAAAF82sxPdqcTxW4="
+									},
+									"source": {
+										"$ref": "AAAAAAF82sxPdqcTxW4="
+									},
+									"target": {
+										"$ref": "AAAAAAF84KzaV+qrO+c="
+									}
+								},
+								{
+									"_type": "UMLExtend",
+									"_id": "AAAAAAF84K7oaxohtMM=",
+									"_parent": {
+										"$ref": "AAAAAAF82sxPdqcTxW4="
+									},
+									"source": {
+										"$ref": "AAAAAAF82sxPdqcTxW4="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									}
+								}
+							]
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82ro0Bm+r+RY=",
+							"_parent": {
+								"$ref": "AAAAAAF82qAOZWmq9ek="
+							},
+							"name": "管理无人机硬件情况",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82slorIcZxDM=",
+									"_parent": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slorIcaILY=",
+										"_parent": {
+											"$ref": "AAAAAAF82slorIcZxDM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82ro0Bm+r+RY="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slorIcb71U=",
+										"_parent": {
+											"$ref": "AAAAAAF82slorIcZxDM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82sISvHXa2F4="
+										}
+									}
+								},
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82slxZ4guGm8=",
+									"_parent": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slxZ4gvxVc=",
+										"_parent": {
+											"$ref": "AAAAAAF82slxZ4guGm8="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82ro0Bm+r+RY="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slxZ4gwaaU=",
+										"_parent": {
+											"$ref": "AAAAAAF82slxZ4guGm8="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82sEuxnVrKhQ="
+										}
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833cznciNQMA=",
+									"_parent": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"source": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rvZZ3CXt/E="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833dDFck0COg=",
+									"_parent": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"source": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"target": {
+										"$ref": "AAAAAAF82sISvHXa2F4="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833dslsv/HMQ=",
+									"_parent": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"source": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"target": {
+										"$ref": "AAAAAAF82sEuxnVrKhQ="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF837eEpGehQDk=",
+									"_parent": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"source": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rlrSW81xK4="
+									}
+								}
+							]
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82tBB5v04fkg=",
+							"_parent": {
+								"$ref": "AAAAAAF82qAOZWmq9ek="
+							},
+							"name": "发送指令",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tDxLQt38UI=",
+									"_parent": {
+										"$ref": "AAAAAAF82tBB5v04fkg="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tDxLQt4R5U=",
+										"_parent": {
+											"$ref": "AAAAAAF82tDxLQt38UI="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tBB5v04fkg="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tDxLQt5W2E=",
+										"_parent": {
+											"$ref": "AAAAAAF82tDxLQt38UI="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qBHrWnFOmY="
+										}
+									}
+								},
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tIETyG4s6c=",
+									"_parent": {
+										"$ref": "AAAAAAF82tBB5v04fkg="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tIETyG5NHk=",
+										"_parent": {
+											"$ref": "AAAAAAF82tIETyG4s6c="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tBB5v04fkg="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tIETyG6qLg=",
+										"_parent": {
+											"$ref": "AAAAAAF82tIETyG4s6c="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qEtrmnvRVM="
+										}
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF84KvBXMNUzW4=",
+									"_parent": {
+										"$ref": "AAAAAAF82tBB5v04fkg="
+									},
+									"source": {
+										"$ref": "AAAAAAF82tBB5v04fkg="
+									},
+									"target": {
+										"$ref": "AAAAAAF84KVgxhcpuIY="
+									}
+								}
+							]
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82tM4hixRL3s=",
+							"_parent": {
+								"$ref": "AAAAAAF82qAOZWmq9ek="
+							},
+							"name": "管理监视无人机",
+							"ownedElements": [
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833b6M8VHVcM=",
+									"_parent": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									},
+									"source": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									},
+									"target": {
+										"$ref": "AAAAAAF82tT1iGZp2Ws="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833cMhMYMwqo=",
+									"_parent": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									},
+									"source": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									},
+									"target": {
+										"$ref": "AAAAAAF82tVx3XAkioc="
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF837glL39SWTU=",
+									"_parent": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									},
+									"source": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									},
+									"target": {
+										"$ref": "AAAAAAF82r0JyXFldEg="
+									}
+								}
+							]
+						}
+					]
 				},
 				{
 					"_type": "UMLActor",
@@ -15108,7 +15606,48 @@
 					"_parent": {
 						"$ref": "AAAAAAF82ppWLml1xYQ="
 					},
-					"name": "天气监视系统"
+					"name": "天气监视系统",
+					"ownedElements": [
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82q3LcGqJmnA=",
+							"_parent": {
+								"$ref": "AAAAAAF82qvOCmog22o="
+							},
+							"name": "启动天气监控传感器"
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82q6teWq59xg=",
+							"_parent": {
+								"$ref": "AAAAAAF82qvOCmog22o="
+							},
+							"name": "显示当前天气状况"
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82q8BWGrqjJ4=",
+							"_parent": {
+								"$ref": "AAAAAAF82qvOCmog22o="
+							},
+							"name": "给出是否适合无人机作业提示",
+							"ownedElements": [
+								{
+									"_type": "UMLExtend",
+									"_id": "AAAAAAF835/XCwNFlwo=",
+									"_parent": {
+										"$ref": "AAAAAAF82q8BWGrqjJ4="
+									},
+									"source": {
+										"$ref": "AAAAAAF82q8BWGrqjJ4="
+									},
+									"target": {
+										"$ref": "AAAAAAF82q6teWq59xg="
+									}
+								}
+							]
+						}
+					]
 				},
 				{
 					"_type": "UMLUseCaseSubject",
@@ -15116,106 +15655,38 @@
 					"_parent": {
 						"$ref": "AAAAAAF82ppWLml1xYQ="
 					},
-					"name": "路径规划系统"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82q0nJ2pZYDU=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "管理天气信息",
+					"name": "路径规划系统",
 					"ownedElements": [
 						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF82q+u2GsaYy0=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82rWgBmwiJks=",
 							"_parent": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
+								"$ref": "AAAAAAF82qzIJWo8DCg="
 							},
-							"source": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
-							},
-							"target": {
-								"$ref": "AAAAAAF82q3LcGqJmnA="
-							}
+							"name": "规划最优路径"
 						},
 						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF82q/EYmsr1uY=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82rZV+2yjUw8=",
 							"_parent": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
+								"$ref": "AAAAAAF82qzIJWo8DCg="
 							},
-							"source": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
-							},
-							"target": {
-								"$ref": "AAAAAAF82q6teWq59xg="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF82q/nZms9170=",
-							"_parent": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
-							},
-							"source": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
-							},
-							"target": {
-								"$ref": "AAAAAAF82q8BWGrqjJ4="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF837UgMmF3YSE=",
-							"_parent": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
-							},
-							"source": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rjX626Q8Hs="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82q3LcGqJmnA=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "启动天气监控传感器"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82q6teWq59xg=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "显示当前天气状况"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82q8BWGrqjJ4=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "给出是否适合无人机作业提示",
-					"ownedElements": [
-						{
-							"_type": "UMLExtend",
-							"_id": "AAAAAAF835/XCwNFlwo=",
-							"_parent": {
-								"$ref": "AAAAAAF82q8BWGrqjJ4="
-							},
-							"source": {
-								"$ref": "AAAAAAF82q8BWGrqjJ4="
-							},
-							"target": {
-								"$ref": "AAAAAAF82q6teWq59xg="
-							}
+							"name": "采集任务区域",
+							"ownedElements": [
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF837R6Fl6WbOo=",
+									"_parent": {
+										"$ref": "AAAAAAF82rZV+2yjUw8="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rZV+2yjUw8="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rWgBmwiJks="
+									}
+								}
+							]
 						}
 					]
 				},
@@ -15258,449 +15729,459 @@
 					]
 				},
 				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82rNXX2vH5sI=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "管理路径信息",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82slXZYUcGZQ=",
-							"_parent": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slXZYUd10E=",
-								"_parent": {
-									"$ref": "AAAAAAF82slXZYUcGZQ="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82rNXX2vH5sI="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slXZYUeirw=",
-								"_parent": {
-									"$ref": "AAAAAAF82slXZYUcGZQ="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82rZV+2yjUw8="
-								}
-							}
-						},
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82sledYYT48Q=",
-							"_parent": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82sledYYUklc=",
-								"_parent": {
-									"$ref": "AAAAAAF82sledYYT48Q="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82rNXX2vH5sI="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82sledYYVZXY=",
-								"_parent": {
-									"$ref": "AAAAAAF82sledYYT48Q="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82rWgBmwiJks="
-								}
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF82s0uaL5v3tk=",
-							"_parent": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"target": {
-								"$ref": "AAAAAAF82sxPdqcTxW4="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833WzxKwypbU=",
-							"_parent": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rZV+2yjUw8="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833XVkq4SZk8=",
-							"_parent": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rWgBmwiJks="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF837RYVFvjtzQ=",
-							"_parent": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rZV+2yjUw8="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF837dErGQA5/M=",
-							"_parent": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rkFd27Zw8c="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82rWgBmwiJks=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "规划最优路径"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82rZV+2yjUw8=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "采集任务区域",
-					"ownedElements": [
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF837R6Fl6WbOo=",
-							"_parent": {
-								"$ref": "AAAAAAF82rZV+2yjUw8="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rZV+2yjUw8="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rWgBmwiJks="
-							}
-						}
-					]
-				},
-				{
 					"_type": "UMLUseCaseSubject",
 					"_id": "AAAAAAF82rg8BW5F/mU=",
 					"_parent": {
 						"$ref": "AAAAAAF82ppWLml1xYQ="
 					},
-					"name": "人机交互界面"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82rjX626Q8Hs=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "查看天气情况",
+					"name": "人机交互界面",
 					"ownedElements": [
 						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82si1Zn2W0mI=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82rjX626Q8Hs=",
 							"_parent": {
-								"$ref": "AAAAAAF82rjX626Q8Hs="
+								"$ref": "AAAAAAF82rg8BW5F/mU="
 							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82si1Zn2XnFw=",
-								"_parent": {
-									"$ref": "AAAAAAF82si1Zn2W0mI="
+							"name": "查看天气情况",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82si1Zn2W0mI=",
+									"_parent": {
+										"$ref": "AAAAAAF82rjX626Q8Hs="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82si1Zn2XnFw=",
+										"_parent": {
+											"$ref": "AAAAAAF82si1Zn2W0mI="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rjX626Q8Hs="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82si1Zn2Ywig=",
+										"_parent": {
+											"$ref": "AAAAAAF82si1Zn2W0mI="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82q0nJ2pZYDU="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82rjX626Q8Hs="
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833QYznFqHPs=",
+									"_parent": {
+										"$ref": "AAAAAAF82rjX626Q8Hs="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rjX626Q8Hs="
+									},
+									"target": {
+										"$ref": "AAAAAAF82q0nJ2pZYDU="
+									}
 								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82si1Zn2Ywig=",
-								"_parent": {
-									"$ref": "AAAAAAF82si1Zn2W0mI="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82q0nJ2pZYDU="
-								}
-							}
+							]
 						},
 						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833QYznFqHPs=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82rkFd27Zw8c=",
 							"_parent": {
-								"$ref": "AAAAAAF82rjX626Q8Hs="
+								"$ref": "AAAAAAF82rg8BW5F/mU="
 							},
-							"source": {
-								"$ref": "AAAAAAF82rjX626Q8Hs="
-							},
-							"target": {
-								"$ref": "AAAAAAF82q0nJ2pZYDU="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82rkFd27Zw8c=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "设置最优路径",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82sk/AINbkY4=",
-							"_parent": {
-								"$ref": "AAAAAAF82rkFd27Zw8c="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82sk/AINctU4=",
-								"_parent": {
-									"$ref": "AAAAAAF82sk/AINbkY4="
+							"name": "设置最优路径",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82sk/AINbkY4=",
+									"_parent": {
+										"$ref": "AAAAAAF82rkFd27Zw8c="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82sk/AINctU4=",
+										"_parent": {
+											"$ref": "AAAAAAF82sk/AINbkY4="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rkFd27Zw8c="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82sk/AINdpnc=",
+										"_parent": {
+											"$ref": "AAAAAAF82sk/AINbkY4="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rNXX2vH5sI="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82rkFd27Zw8c="
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833Sy04uHSAU=",
+									"_parent": {
+										"$ref": "AAAAAAF82rkFd27Zw8c="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rkFd27Zw8c="
+									},
+									"target": {
+										"$ref": "AAAAAAF82rNXX2vH5sI="
+									}
 								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82sk/AINdpnc=",
-								"_parent": {
-									"$ref": "AAAAAAF82sk/AINbkY4="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82rNXX2vH5sI="
-								}
-							}
+							]
 						},
 						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833Sy04uHSAU=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82r8U43M9OrM=",
 							"_parent": {
-								"$ref": "AAAAAAF82rkFd27Zw8c="
+								"$ref": "AAAAAAF82rg8BW5F/mU="
 							},
-							"source": {
-								"$ref": "AAAAAAF82rkFd27Zw8c="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82rlrSW81xK4=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "查看无人机硬件情况",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82slKQYQ0HqA=",
-							"_parent": {
-								"$ref": "AAAAAAF82rlrSW81xK4="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slKQYQ1VU8=",
-								"_parent": {
-									"$ref": "AAAAAAF82slKQYQ0HqA="
+							"name": "启动无人机系统",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tDMlAef7HM=",
+									"_parent": {
+										"$ref": "AAAAAAF82r8U43M9OrM="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tDMlAegbPA=",
+										"_parent": {
+											"$ref": "AAAAAAF82tDMlAef7HM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r8U43M9OrM="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tDMlAehyHA=",
+										"_parent": {
+											"$ref": "AAAAAAF82tDMlAef7HM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tBB5v04fkg="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82rlrSW81xK4="
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833TDIIyIm7A=",
+									"_parent": {
+										"$ref": "AAAAAAF82r8U43M9OrM="
+									},
+									"source": {
+										"$ref": "AAAAAAF82r8U43M9OrM="
+									},
+									"target": {
+										"$ref": "AAAAAAF82tBB5v04fkg="
+									}
 								}
+							]
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82r9x3XPSdaU=",
+							"_parent": {
+								"$ref": "AAAAAAF82rg8BW5F/mU="
 							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slKQYQ2aJY=",
-								"_parent": {
-									"$ref": "AAAAAAF82slKQYQ0HqA="
+							"name": "结束无人机作业",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82skEwICl9QM=",
+									"_parent": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82skEwICmq9g=",
+										"_parent": {
+											"$ref": "AAAAAAF82skEwICl9QM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r9x3XPSdaU="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82skEwICn1fE=",
+										"_parent": {
+											"$ref": "AAAAAAF82skEwICl9QM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82p+86ml97lM="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82ro0Bm+r+RY="
-								}
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833TtU5SKt1c=",
-							"_parent": {
-								"$ref": "AAAAAAF82rlrSW81xK4="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rlrSW81xK4="
-							},
-							"target": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							}
-						},
-						{
-							"_type": "UMLExtend",
-							"_id": "AAAAAAF837i1gYakH/0=",
-							"_parent": {
-								"$ref": "AAAAAAF82rlrSW81xK4="
-							},
-							"source": {
-								"$ref": "AAAAAAF82rlrSW81xK4="
-							},
-							"target": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82ro0Bm+r+RY=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "管理无人机硬件情况",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82slorIcZxDM=",
-							"_parent": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slorIcaILY=",
-								"_parent": {
-									"$ref": "AAAAAAF82slorIcZxDM="
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tDjfAomsLA=",
+									"_parent": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tDjfAonO3M=",
+										"_parent": {
+											"$ref": "AAAAAAF82tDjfAomsLA="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r9x3XPSdaU="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tDjfAooMBw=",
+										"_parent": {
+											"$ref": "AAAAAAF82tDjfAomsLA="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r9x3XPSdaU="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82ro0Bm+r+RY="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slorIcb71U=",
-								"_parent": {
-									"$ref": "AAAAAAF82slorIcZxDM="
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tD/gwzXf+w=",
+									"_parent": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tD/gwzY/R8=",
+										"_parent": {
+											"$ref": "AAAAAAF82tD/gwzXf+w="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r9x3XPSdaU="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tD/gwzZ2WI=",
+										"_parent": {
+											"$ref": "AAAAAAF82tD/gwzXf+w="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qBHrWnFOmY="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82sISvHXa2F4="
-								}
-							}
-						},
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82slxZ4guGm8=",
-							"_parent": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slxZ4gvxVc=",
-								"_parent": {
-									"$ref": "AAAAAAF82slxZ4guGm8="
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tIRgyM28Kk=",
+									"_parent": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tIRgyM3AC0=",
+										"_parent": {
+											"$ref": "AAAAAAF82tIRgyM28Kk="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r9x3XPSdaU="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tIRgyM4UmI=",
+										"_parent": {
+											"$ref": "AAAAAAF82tIRgyM28Kk="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qEtrmnvRVM="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82ro0Bm+r+RY="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82slxZ4gwaaU=",
-								"_parent": {
-									"$ref": "AAAAAAF82slxZ4guGm8="
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833TJqI2JtcM=",
+									"_parent": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"source": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"target": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82sEuxnVrKhQ="
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF835ykUtVQq8s=",
+									"_parent": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"source": {
+										"$ref": "AAAAAAF82r9x3XPSdaU="
+									},
+									"target": {
+										"$ref": "AAAAAAF82tBB5v04fkg="
+									}
 								}
-							}
+							]
 						},
 						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833cznciNQMA=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82rlrSW81xK4=",
 							"_parent": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
+								"$ref": "AAAAAAF82rg8BW5F/mU="
 							},
-							"source": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rvZZ3CXt/E="
-							}
+							"name": "查看无人机硬件情况",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82slKQYQ0HqA=",
+									"_parent": {
+										"$ref": "AAAAAAF82rlrSW81xK4="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slKQYQ1VU8=",
+										"_parent": {
+											"$ref": "AAAAAAF82slKQYQ0HqA="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82rlrSW81xK4="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82slKQYQ2aJY=",
+										"_parent": {
+											"$ref": "AAAAAAF82slKQYQ0HqA="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82ro0Bm+r+RY="
+										}
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833TtU5SKt1c=",
+									"_parent": {
+										"$ref": "AAAAAAF82rlrSW81xK4="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rlrSW81xK4="
+									},
+									"target": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									}
+								},
+								{
+									"_type": "UMLExtend",
+									"_id": "AAAAAAF837i1gYakH/0=",
+									"_parent": {
+										"$ref": "AAAAAAF82rlrSW81xK4="
+									},
+									"source": {
+										"$ref": "AAAAAAF82rlrSW81xK4="
+									},
+									"target": {
+										"$ref": "AAAAAAF82ro0Bm+r+RY="
+									}
+								}
+							]
 						},
 						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833dDFck0COg=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82r0JyXFldEg=",
 							"_parent": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
+								"$ref": "AAAAAAF82rg8BW5F/mU="
 							},
-							"source": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"target": {
-								"$ref": "AAAAAAF82sISvHXa2F4="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833dslsv/HMQ=",
-							"_parent": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"source": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"target": {
-								"$ref": "AAAAAAF82sEuxnVrKhQ="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF837eEpGehQDk=",
-							"_parent": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"source": {
-								"$ref": "AAAAAAF82ro0Bm+r+RY="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rlrSW81xK4="
-							}
+							"name": "查看无人机蜂群工作情况",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82skNZ4FgfnA=",
+									"_parent": {
+										"$ref": "AAAAAAF82r0JyXFldEg="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82skNZ4FhYa4=",
+										"_parent": {
+											"$ref": "AAAAAAF82skNZ4FgfnA="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r0JyXFldEg="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82skNZ4FiDT0=",
+										"_parent": {
+											"$ref": "AAAAAAF82skNZ4FgfnA="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82p+86ml97lM="
+										}
+									}
+								},
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tO++zVmvKM=",
+									"_parent": {
+										"$ref": "AAAAAAF82r0JyXFldEg="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tO++zVn8bg=",
+										"_parent": {
+											"$ref": "AAAAAAF82tO++zVmvKM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82r0JyXFldEg="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tO++zVoVbI=",
+										"_parent": {
+											"$ref": "AAAAAAF82tO++zVmvKM="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tM4hixRL3s="
+										}
+									}
+								},
+								{
+									"_type": "UMLInclude",
+									"_id": "AAAAAAF833RaCX+gS3M=",
+									"_parent": {
+										"$ref": "AAAAAAF82r0JyXFldEg="
+									},
+									"source": {
+										"$ref": "AAAAAAF82r0JyXFldEg="
+									},
+									"target": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									}
+								},
+								{
+									"_type": "UMLExtend",
+									"_id": "AAAAAAF837ifC4PrXXM=",
+									"_parent": {
+										"$ref": "AAAAAAF82r0JyXFldEg="
+									},
+									"source": {
+										"$ref": "AAAAAAF82r0JyXFldEg="
+									},
+									"target": {
+										"$ref": "AAAAAAF82tM4hixRL3s="
+									}
+								}
+							]
 						}
 					]
 				},
@@ -15710,517 +16191,46 @@
 					"_parent": {
 						"$ref": "AAAAAAF82ppWLml1xYQ="
 					},
-					"name": "故障诊断及处理系统"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82rvZZ3CXt/E=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "检查无人机硬件"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82r0JyXFldEg=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "查看无人机蜂群工作情况",
+					"name": "故障诊断及处理系统",
 					"ownedElements": [
 						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82skNZ4FgfnA=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82rvZZ3CXt/E=",
 							"_parent": {
-								"$ref": "AAAAAAF82r0JyXFldEg="
+								"$ref": "AAAAAAF82rq0KnAgcEE="
 							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82skNZ4FhYa4=",
-								"_parent": {
-									"$ref": "AAAAAAF82skNZ4FgfnA="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r0JyXFldEg="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82skNZ4FiDT0=",
-								"_parent": {
-									"$ref": "AAAAAAF82skNZ4FgfnA="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82p+86ml97lM="
-								}
-							}
+							"name": "检查无人机硬件"
 						},
 						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tO++zVmvKM=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82sEuxnVrKhQ=",
 							"_parent": {
-								"$ref": "AAAAAAF82r0JyXFldEg="
+								"$ref": "AAAAAAF82rq0KnAgcEE="
 							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tO++zVn8bg=",
-								"_parent": {
-									"$ref": "AAAAAAF82tO++zVmvKM="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r0JyXFldEg="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tO++zVoVbI=",
-								"_parent": {
-									"$ref": "AAAAAAF82tO++zVmvKM="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82tM4hixRL3s="
-								}
-							}
+							"name": "显示各个无人机硬件状态"
 						},
 						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833RaCX+gS3M=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82sISvHXa2F4=",
 							"_parent": {
-								"$ref": "AAAAAAF82r0JyXFldEg="
+								"$ref": "AAAAAAF82rq0KnAgcEE="
 							},
-							"source": {
-								"$ref": "AAAAAAF82r0JyXFldEg="
-							},
-							"target": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							}
-						},
-						{
-							"_type": "UMLExtend",
-							"_id": "AAAAAAF837ifC4PrXXM=",
-							"_parent": {
-								"$ref": "AAAAAAF82r0JyXFldEg="
-							},
-							"source": {
-								"$ref": "AAAAAAF82r0JyXFldEg="
-							},
-							"target": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82r8U43M9OrM=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "启动无人机",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tDMlAef7HM=",
-							"_parent": {
-								"$ref": "AAAAAAF82r8U43M9OrM="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tDMlAegbPA=",
-								"_parent": {
-									"$ref": "AAAAAAF82tDMlAef7HM="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r8U43M9OrM="
+							"name": "显示维修提示",
+							"ownedElements": [
+								{
+									"_type": "UMLExtend",
+									"_id": "AAAAAAF82sKIHnYjqmU=",
+									"_parent": {
+										"$ref": "AAAAAAF82sISvHXa2F4="
+									},
+									"source": {
+										"$ref": "AAAAAAF82sISvHXa2F4="
+									},
+									"target": {
+										"$ref": "AAAAAAF82sEuxnVrKhQ="
+									}
 								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tDMlAehyHA=",
-								"_parent": {
-									"$ref": "AAAAAAF82tDMlAef7HM="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82tBB5v04fkg="
-								}
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833TDIIyIm7A=",
-							"_parent": {
-								"$ref": "AAAAAAF82r8U43M9OrM="
-							},
-							"source": {
-								"$ref": "AAAAAAF82r8U43M9OrM="
-							},
-							"target": {
-								"$ref": "AAAAAAF82tBB5v04fkg="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82r9x3XPSdaU=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "结束无人机作业令",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82skEwICl9QM=",
-							"_parent": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82skEwICmq9g=",
-								"_parent": {
-									"$ref": "AAAAAAF82skEwICl9QM="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r9x3XPSdaU="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82skEwICn1fE=",
-								"_parent": {
-									"$ref": "AAAAAAF82skEwICl9QM="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82p+86ml97lM="
-								}
-							}
-						},
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tDjfAomsLA=",
-							"_parent": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tDjfAonO3M=",
-								"_parent": {
-									"$ref": "AAAAAAF82tDjfAomsLA="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r9x3XPSdaU="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tDjfAooMBw=",
-								"_parent": {
-									"$ref": "AAAAAAF82tDjfAomsLA="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r9x3XPSdaU="
-								}
-							}
-						},
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tD/gwzXf+w=",
-							"_parent": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tD/gwzY/R8=",
-								"_parent": {
-									"$ref": "AAAAAAF82tD/gwzXf+w="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r9x3XPSdaU="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tD/gwzZ2WI=",
-								"_parent": {
-									"$ref": "AAAAAAF82tD/gwzXf+w="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82qBHrWnFOmY="
-								}
-							}
-						},
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tIRgyM28Kk=",
-							"_parent": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tIRgyM3AC0=",
-								"_parent": {
-									"$ref": "AAAAAAF82tIRgyM28Kk="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82r9x3XPSdaU="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tIRgyM4UmI=",
-								"_parent": {
-									"$ref": "AAAAAAF82tIRgyM28Kk="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82qEtrmnvRVM="
-								}
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833TJqI2JtcM=",
-							"_parent": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"source": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"target": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF835ykUtVQq8s=",
-							"_parent": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"source": {
-								"$ref": "AAAAAAF82r9x3XPSdaU="
-							},
-							"target": {
-								"$ref": "AAAAAAF82tBB5v04fkg="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82sEuxnVrKhQ=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "显示各个无人机硬件状态"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82sISvHXa2F4=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "显示维修提示",
-					"ownedElements": [
-						{
-							"_type": "UMLExtend",
-							"_id": "AAAAAAF82sKIHnYjqmU=",
-							"_parent": {
-								"$ref": "AAAAAAF82sISvHXa2F4="
-							},
-							"source": {
-								"$ref": "AAAAAAF82sISvHXa2F4="
-							},
-							"target": {
-								"$ref": "AAAAAAF82sEuxnVrKhQ="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82sxPdqcTxW4=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "发送路径指令",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82szsuL08LEg=",
-							"_parent": {
-								"$ref": "AAAAAAF82sxPdqcTxW4="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82szsuL09aww=",
-								"_parent": {
-									"$ref": "AAAAAAF82szsuL08LEg="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82sxPdqcTxW4="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82szsuL0+C74=",
-								"_parent": {
-									"$ref": "AAAAAAF82szsuL08LEg="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82qBHrWnFOmY="
-								}
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF84K490BVYonk=",
-							"_parent": {
-								"$ref": "AAAAAAF82sxPdqcTxW4="
-							},
-							"source": {
-								"$ref": "AAAAAAF82sxPdqcTxW4="
-							},
-							"target": {
-								"$ref": "AAAAAAF84KzaV+qrO+c="
-							}
-						},
-						{
-							"_type": "UMLExtend",
-							"_id": "AAAAAAF84K7oaxohtMM=",
-							"_parent": {
-								"$ref": "AAAAAAF82sxPdqcTxW4="
-							},
-							"source": {
-								"$ref": "AAAAAAF82sxPdqcTxW4="
-							},
-							"target": {
-								"$ref": "AAAAAAF82rNXX2vH5sI="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82tBB5v04fkg=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "发送指令",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tDxLQt38UI=",
-							"_parent": {
-								"$ref": "AAAAAAF82tBB5v04fkg="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tDxLQt4R5U=",
-								"_parent": {
-									"$ref": "AAAAAAF82tDxLQt38UI="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82tBB5v04fkg="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tDxLQt5W2E=",
-								"_parent": {
-									"$ref": "AAAAAAF82tDxLQt38UI="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82qBHrWnFOmY="
-								}
-							}
-						},
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tIETyG4s6c=",
-							"_parent": {
-								"$ref": "AAAAAAF82tBB5v04fkg="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tIETyG5NHk=",
-								"_parent": {
-									"$ref": "AAAAAAF82tIETyG4s6c="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82tBB5v04fkg="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tIETyG6qLg=",
-								"_parent": {
-									"$ref": "AAAAAAF82tIETyG4s6c="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82qEtrmnvRVM="
-								}
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF84KvBXMNUzW4=",
-							"_parent": {
-								"$ref": "AAAAAAF82tBB5v04fkg="
-							},
-							"source": {
-								"$ref": "AAAAAAF82tBB5v04fkg="
-							},
-							"target": {
-								"$ref": "AAAAAAF84KVgxhcpuIY="
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82tM4hixRL3s=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "管理监视无人机",
-					"ownedElements": [
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833b6M8VHVcM=",
-							"_parent": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							},
-							"source": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							},
-							"target": {
-								"$ref": "AAAAAAF82tT1iGZp2Ws="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF833cMhMYMwqo=",
-							"_parent": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							},
-							"source": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							},
-							"target": {
-								"$ref": "AAAAAAF82tVx3XAkioc="
-							}
-						},
-						{
-							"_type": "UMLInclude",
-							"_id": "AAAAAAF837glL39SWTU=",
-							"_parent": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							},
-							"source": {
-								"$ref": "AAAAAAF82tM4hixRL3s="
-							},
-							"target": {
-								"$ref": "AAAAAAF82r0JyXFldEg="
-							}
+							]
 						}
 					]
 				},
@@ -16230,119 +16240,121 @@
 					"_parent": {
 						"$ref": "AAAAAAF82ppWLml1xYQ="
 					},
-					"name": "无人机群监视系统"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82tT1iGZp2Ws=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "获取无人机群工作画面",
+					"name": "无人机群监视系统",
 					"ownedElements": [
 						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tYey4CepS4=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82tT1iGZp2Ws=",
 							"_parent": {
-								"$ref": "AAAAAAF82tT1iGZp2Ws="
+								"$ref": "AAAAAAF82tR48l3cXnw="
 							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tYey4Cfg5s=",
-								"_parent": {
-									"$ref": "AAAAAAF82tYey4CepS4="
+							"name": "获取无人机群工作画面",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tYey4CepS4=",
+									"_parent": {
+										"$ref": "AAAAAAF82tT1iGZp2Ws="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tYey4Cfg5s=",
+										"_parent": {
+											"$ref": "AAAAAAF82tYey4CepS4="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tT1iGZp2Ws="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tYezICghHo=",
+										"_parent": {
+											"$ref": "AAAAAAF82tYey4CepS4="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tM4hixRL3s="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82tT1iGZp2Ws="
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF837MpkkiGXN8=",
+									"_parent": {
+										"$ref": "AAAAAAF82tT1iGZp2Ws="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF837MpkkiHL/8=",
+										"_parent": {
+											"$ref": "AAAAAAF837MpkkiGXN8="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tT1iGZp2Ws="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF837MpkkiIr30=",
+										"_parent": {
+											"$ref": "AAAAAAF837MpkkiGXN8="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qEtrmnvRVM="
+										}
+									}
 								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tYezICghHo=",
-								"_parent": {
-									"$ref": "AAAAAAF82tYey4CepS4="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82tM4hixRL3s="
-								}
-							}
+							]
 						},
 						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF837MpkkiGXN8=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF82tVx3XAkioc=",
 							"_parent": {
-								"$ref": "AAAAAAF82tT1iGZp2Ws="
+								"$ref": "AAAAAAF82tR48l3cXnw="
 							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF837MpkkiHL/8=",
-								"_parent": {
-									"$ref": "AAAAAAF837MpkkiGXN8="
+							"name": "提示工作异常",
+							"ownedElements": [
+								{
+									"_type": "UMLExtend",
+									"_id": "AAAAAAF82tXApXbejeo=",
+									"_parent": {
+										"$ref": "AAAAAAF82tVx3XAkioc="
+									},
+									"source": {
+										"$ref": "AAAAAAF82tVx3XAkioc="
+									},
+									"target": {
+										"$ref": "AAAAAAF82tT1iGZp2Ws="
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82tT1iGZp2Ws="
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF82tYw14JYu/I=",
+									"_parent": {
+										"$ref": "AAAAAAF82tVx3XAkioc="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tYw14JZHGI=",
+										"_parent": {
+											"$ref": "AAAAAAF82tYw14JYu/I="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tVx3XAkioc="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF82tYw14Ja6WM=",
+										"_parent": {
+											"$ref": "AAAAAAF82tYw14JYu/I="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82tM4hixRL3s="
+										}
+									}
 								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF837MpkkiIr30=",
-								"_parent": {
-									"$ref": "AAAAAAF837MpkkiGXN8="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82qEtrmnvRVM="
-								}
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF82tVx3XAkioc=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "提示工作异常",
-					"ownedElements": [
-						{
-							"_type": "UMLExtend",
-							"_id": "AAAAAAF82tXApXbejeo=",
-							"_parent": {
-								"$ref": "AAAAAAF82tVx3XAkioc="
-							},
-							"source": {
-								"$ref": "AAAAAAF82tVx3XAkioc="
-							},
-							"target": {
-								"$ref": "AAAAAAF82tT1iGZp2Ws="
-							}
-						},
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF82tYw14JYu/I=",
-							"_parent": {
-								"$ref": "AAAAAAF82tVx3XAkioc="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tYw14JZHGI=",
-								"_parent": {
-									"$ref": "AAAAAAF82tYw14JYu/I="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82tVx3XAkioc="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF82tYw14Ja6WM=",
-								"_parent": {
-									"$ref": "AAAAAAF82tYw14JYu/I="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82tM4hixRL3s="
-								}
-							}
+							]
 						}
 					]
 				},
@@ -16352,140 +16364,142 @@
 					"_parent": {
 						"$ref": "AAAAAAF82ppWLml1xYQ="
 					},
-					"name": "无人机自控系统"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF833spO+3k58E=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "启动自身硬件检测",
+					"name": "无人机自控系统",
 					"ownedElements": [
 						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF833yRnfuxydg=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF833spO+3k58E=",
 							"_parent": {
-								"$ref": "AAAAAAF833spO+3k58E="
+								"$ref": "AAAAAAF833p55uuOf18="
 							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF833yRnvuyEE8=",
-								"_parent": {
-									"$ref": "AAAAAAF833yRnfuxydg="
-								},
-								"name": "循环自查",
-								"reference": {
-									"$ref": "AAAAAAF833spO+3k58E="
-								},
-								"navigable": false
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF833yRnvuzl4I=",
-								"_parent": {
-									"$ref": "AAAAAAF833yRnfuxydg="
-								},
-								"reference": {
-									"$ref": "AAAAAAF833spO+3k58E="
+							"name": "启动自身硬件检测",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF833yRnfuxydg=",
+									"_parent": {
+										"$ref": "AAAAAAF833spO+3k58E="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF833yRnvuyEE8=",
+										"_parent": {
+											"$ref": "AAAAAAF833yRnfuxydg="
+										},
+										"name": "循环自查",
+										"reference": {
+											"$ref": "AAAAAAF833spO+3k58E="
+										},
+										"navigable": false
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF833yRnvuzl4I=",
+										"_parent": {
+											"$ref": "AAAAAAF833yRnfuxydg="
+										},
+										"reference": {
+											"$ref": "AAAAAAF833spO+3k58E="
+										}
+									}
 								}
-							}
-						}
-					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF83342iv1scAg=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "启动路径检测"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF8336r4f/kVZw=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "检查无人机间安全距离"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF8339/qQhWLJ0=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "拍摄无人机群工作视频"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF84KVgxhcpuIY=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "发送行动指令"
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAF84KzaV+qrO+c=",
-					"_parent": {
-						"$ref": "AAAAAAF82ppWLml1xYQ="
-					},
-					"name": "接收地图信息",
-					"ownedElements": [
-						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF84K0eC+46wtc=",
-							"_parent": {
-								"$ref": "AAAAAAF84KzaV+qrO+c="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF84K0eC+47l1g=",
-								"_parent": {
-									"$ref": "AAAAAAF84K0eC+46wtc="
-								},
-								"reference": {
-									"$ref": "AAAAAAF84KzaV+qrO+c="
-								}
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF84K0eC+48sUA=",
-								"_parent": {
-									"$ref": "AAAAAAF84K0eC+46wtc="
-								},
-								"reference": {
-									"$ref": "AAAAAAF82qBHrWnFOmY="
-								}
-							}
+							]
 						},
 						{
-							"_type": "UMLAssociation",
-							"_id": "AAAAAAF84K2MSQYJrpc=",
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF8336r4f/kVZw=",
 							"_parent": {
-								"$ref": "AAAAAAF84KzaV+qrO+c="
+								"$ref": "AAAAAAF833p55uuOf18="
 							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF84K2MSQYKYtI=",
-								"_parent": {
-									"$ref": "AAAAAAF84K2MSQYJrpc="
-								},
-								"reference": {
-									"$ref": "AAAAAAF84KzaV+qrO+c="
-								}
+							"name": "检查无人机间安全距离"
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF84KzaV+qrO+c=",
+							"_parent": {
+								"$ref": "AAAAAAF833p55uuOf18="
 							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAF84K2MSQYL1Ac=",
-								"_parent": {
-									"$ref": "AAAAAAF84K2MSQYJrpc="
+							"name": "接收地图信息",
+							"ownedElements": [
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF84K0eC+46wtc=",
+									"_parent": {
+										"$ref": "AAAAAAF84KzaV+qrO+c="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF84K0eC+47l1g=",
+										"_parent": {
+											"$ref": "AAAAAAF84K0eC+46wtc="
+										},
+										"reference": {
+											"$ref": "AAAAAAF84KzaV+qrO+c="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF84K0eC+48sUA=",
+										"_parent": {
+											"$ref": "AAAAAAF84K0eC+46wtc="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qBHrWnFOmY="
+										}
+									}
 								},
-								"reference": {
-									"$ref": "AAAAAAF82qEtrmnvRVM="
+								{
+									"_type": "UMLAssociation",
+									"_id": "AAAAAAF84K2MSQYJrpc=",
+									"_parent": {
+										"$ref": "AAAAAAF84KzaV+qrO+c="
+									},
+									"end1": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF84K2MSQYKYtI=",
+										"_parent": {
+											"$ref": "AAAAAAF84K2MSQYJrpc="
+										},
+										"reference": {
+											"$ref": "AAAAAAF84KzaV+qrO+c="
+										}
+									},
+									"end2": {
+										"_type": "UMLAssociationEnd",
+										"_id": "AAAAAAF84K2MSQYL1Ac=",
+										"_parent": {
+											"$ref": "AAAAAAF84K2MSQYJrpc="
+										},
+										"reference": {
+											"$ref": "AAAAAAF82qEtrmnvRVM="
+										}
+									}
 								}
-							}
+							]
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF84KVgxhcpuIY=",
+							"_parent": {
+								"$ref": "AAAAAAF833p55uuOf18="
+							},
+							"name": "发送行动指令"
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF83342iv1scAg=",
+							"_parent": {
+								"$ref": "AAAAAAF833p55uuOf18="
+							},
+							"name": "启动路径检测"
+						},
+						{
+							"_type": "UMLUseCase",
+							"_id": "AAAAAAF8339/qQhWLJ0=",
+							"_parent": {
+								"$ref": "AAAAAAF833p55uuOf18="
+							},
+							"name": "拍摄无人机群工作视频"
 						}
 					]
 				}
